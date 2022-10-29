@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aproveitando que estamos em clima da copa do mundo, o professor Mayk Brito (Educador na Rocketseat) nos ensinou a replicar o cartão mostrado no site do evento (NLW COPA) que iniciará no dia 31/10/2022.
 
-O cartão tem 2 variações, basta clicar no cartão que a mágica acontece.
+O cartão tem 2 variações, basta clicar nele que a mágica acontece.
 
 
 <br>
