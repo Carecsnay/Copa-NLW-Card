@@ -6,7 +6,8 @@ Aquecimento para o Evento NLW Copa.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -47,8 +48,9 @@ Aproveitando que estamos em clima da copa do mundo, o professor Mayk Brito (Educ
 
 O cartão tem 2 variações, basta clicar nele que a mágica acontece.
 
+## 🔖 Layout
 
-<br>
+Você pode visualizar o layout original do projeto através [DESSE LINK](https://www.figma.com/file/mp9GzszqeMtxentvNyuBCg/NLW-Copa-Card?node-id=0%3A1).
 
 ---
 Feito com ❤️ por Bruno Benicio :wave: em parceria com a Rocketseat 💜
