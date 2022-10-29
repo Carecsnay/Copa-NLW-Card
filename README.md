@@ -24,6 +24,14 @@ Aquecimento para o Evento NLW Copa.
   <br>
   <h3 align="center">Variação 02 da Figurinha Replicada</h3>
   <img alt="copa card" src=".github/Sample-02.png" width="100%">
+  
+  <br>
+  <h3 align="center">Video Demonstração</h3>
+  
+
+https://user-images.githubusercontent.com/53373326/198835228-1f1429f6-b02e-4151-ad2f-905d5d34b376.mp4
+
+
 </p>
 
 ## 🚀 Tecnologias
